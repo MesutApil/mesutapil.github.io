@@ -1,0 +1,19 @@
+{
+    "profile":{
+        "firstName": "Mesut",
+        "lastName": "Apil",
+        "caption": "I am a Software Engineer",
+        "img_avatar": "https://lh3.googleusercontent.com/PxXoCsoVXY0fECGNQrIYDp0NA1d5dUfa3_b0vzzOM2IEKg_Jyf0M5byUM2ijGhgWzFVhGnk--_syM7pIOmXwzj-9bg"
+    },
+    "section1": {
+        "header": "About Me",
+        "subheader": "More about me",
+        "greeting": "My name is Mesut, I am a Software Enginner",
+        "bio": "I am a Computer Science student at Texas State University pursuing Mathematics as my minor. Main focus of my major is Software Engineering. Through out my experience in Texas State University I have put together complex projects as well as meeting incredible mentors. If I am not behind my computer coding or stressing over an assignment, I enjoy attending fun activities. Floating down the San Marcos river every once in a while is one of the best ways to relieve stress. ",
+        "img_potrait": "https://lh3.googleusercontent.com/40eYFdP3tlyYBYyx8ibWxcoVobF-lW0HFpuW7qQcc9SKCgb_5SgHj2UihHEHaIMC3IOW_VuJepPNwCli4g8gyZ4j-Q",
+        "resume": {
+            "button": "Download Resume",
+            "url": "https://storage.turbo360.co/portfolio-website-ueerms/Mesut_Apil_Resume_61.pdf"
+        }
+    }
+}
